@@ -1,0 +1,20 @@
+.main {
+  &__section { /* .main__section */
+    border: 1px solid black;
+    &--intro { /* .main__section--intro */
+      background-color: lightblue;
+    }
+    &--why {
+      background-color: lightyellow;
+    }
+    &--stop-it {
+      background-color: lightgreen;
+    }
+  }
+  &__title {
+    text-decoration: underline;
+  }
+  &__text {
+    color: blue;
+  }
+}

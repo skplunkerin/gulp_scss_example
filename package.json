@@ -1,0 +1,23 @@
+{
+  "name": "scss_gulp_test",
+  "version": "0.0.0",
+  "description": "```sh git clone https://github.com/skplunkerin/gulp_scss_example.git cd gulp_scss_example/ npm install gulp sass:watch```",
+  "main": "gulpfile.js",
+  "dependencies": {
+    "gulp": "~3.9.0",
+    "gulp-sass": "~2.0.4"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/skplunkerin/gulp_scss_example.git"
+  },
+  "author": "skplunkerin",
+  "license": "BSD-2-Clause",
+  "bugs": {
+    "url": "https://github.com/skplunkerin/gulp_scss_example/issues"
+  }
+}
